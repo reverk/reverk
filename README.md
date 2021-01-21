@@ -6,8 +6,8 @@
 
 #### 🛠 Tools I use
 - ![WebStorm](https://img.shields.io/badge/WebStorm--blue?style=flat-square&logo=webstorm)
-- ![PHPStorm](https://img.shields.io/badge/PHPStorm--purple?style=flat-square&logo=jetbrains)
-- ![PyCharm](https://img.shields.io/badge/PyCharm-%20-lime?style=flat-square&logo=jetbrains)
+- ![PHPStorm](https://img.shields.io/badge/PHPStorm--purple?style=flat-square&logo=phpstorm)
+- ![PyCharm](https://img.shields.io/badge/PyCharm-%20-lime?style=flat-square&logo=pycharm)
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code--blue?style=flat-square&logo=visual-studio-code)
 - ![Visual Studio Community](https://img.shields.io/badge/Visual%20Studio%20Community--purple?style=flat-square&logo=visual-studio)
 - ![Figma](https://img.shields.io/badge/Figma--orange?style=flat-square&logo=figma)
