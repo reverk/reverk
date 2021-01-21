@@ -14,6 +14,4 @@
 #### 🔠 Languages I've learned
 - HTML/CSS/JS : ![React](https://img.shields.io/badge/React--blue?style=flat-square&logo=react) ![Gatsbyjs](https://img.shields.io/badge/Gatsbyjs--purple?style=flat-square&logo=gatsby) ![Bootstrap](https://img.shields.io/badge/Bootstrap--purple?style=flat-square&logo=bootstrap) ![Nextjs](https://img.shields.io/badge/Nextjs--black?style=flat-square&logo=next.js) ![Tailwind](https://img.shields.io/badge/TailwindCSS--cyan?style=flat-square&logo=tailwind-css)
 - PHP : ![Laravel](https://img.shields.io/badge/Laravel--red?style=flat-square&logo=laravel)
-- C# *(basic)*
-- C++ *(basic)*
 - MySQL
