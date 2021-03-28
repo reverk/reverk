@@ -1,7 +1,7 @@
 ## Hi there! I'm Victor 🙋🏻‍♂️
 
 #### 👨🏻‍💻 About me
-- 📚 Studying Diploma in IT
+- 📚 Going through intenship
 - 📖 Currently learning about Nextjs
 
 #### 🛠 Tools I use
